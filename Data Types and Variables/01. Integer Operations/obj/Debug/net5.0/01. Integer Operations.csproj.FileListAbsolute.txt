@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\refint\01. Integer Operations.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll

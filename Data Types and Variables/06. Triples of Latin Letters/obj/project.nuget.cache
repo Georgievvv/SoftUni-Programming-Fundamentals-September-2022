@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnKAj/RlgUsMil6mUnSJT8HOkClpCPA04Bqu2v8k1OJyoP6iR+yjTTpkJUdmnRs1trSUHjH5SsZYgPMMGaE9EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

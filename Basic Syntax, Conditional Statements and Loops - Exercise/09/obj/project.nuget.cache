@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dRo+YSoUwGOXeX9kTJzr2B2fApN53DsNdKZEEMRNGK3dO43JjxRMEey55RTZ47MQEN1X33p6nb1OaUu3N10ZtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Basic Syntax, Conditional Statements and Loops - Exercise\\09\\09.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\bin\Debug\net5.0\02.exe
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\bin\Debug\net5.0\02.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\bin\Debug\net5.0\02.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\bin\Debug\net5.0\02.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\bin\Debug\net5.0\02.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\bin\Debug\net5.0\02.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\refint\02.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\02.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02\obj\Debug\net5.0\ref\02.dll

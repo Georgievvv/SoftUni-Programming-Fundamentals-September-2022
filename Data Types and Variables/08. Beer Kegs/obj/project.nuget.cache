@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ry+111LhB+Uo5SaM5k+FqNpssKgYWJCfsUBYfFfRB1sboi35PmPu1UiBwcNFegsthx8LaX3dUpvqclPA2OQlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Data Types and Variables\\08. Beer Kegs\\08. Beer Kegs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

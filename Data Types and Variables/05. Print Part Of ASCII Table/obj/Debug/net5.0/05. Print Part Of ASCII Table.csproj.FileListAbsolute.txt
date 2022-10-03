@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.exe
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\refint\05. Print Part Of ASCII Table.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\05. Print Part Of ASCII Table\obj\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll

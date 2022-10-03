@@ -1,0 +1,16 @@
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\net5.0\01. Ages.exe
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\net5.0\01. Ages.deps.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\net5.0\01. Ages.runtimeconfig.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\net5.0\01. Ages.runtimeconfig.dev.json
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\net5.0\01. Ages.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\net5.0\01. Ages.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.csproj.AssemblyReference.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.AssemblyInfoInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.AssemblyInfo.cs
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\refint\01. Ages.dll
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.pdb
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\01. Ages.genruntimeconfig.cache
+C:\Users\Sweex\Desktop\SoftUni\Programming Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\net5.0\ref\01. Ages.dll

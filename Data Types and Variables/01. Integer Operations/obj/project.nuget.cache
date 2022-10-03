@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Fn9Tw63H7eFbGyEOD3meXLm5DwLfgPhWmERuyTe8lRk0FaXX/50ZJAH9bGStk/a5o5NqyZpYw+2lgvz6bBJLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
