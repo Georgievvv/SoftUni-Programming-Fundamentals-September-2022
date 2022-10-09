@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLvlN38YWnDgb4px7Upz2Y9cKursE0A7unIHhXcm4zcf9TXTqbB0cNuPmHgkr18JDFTOQCFeDgWUkq1mJIDKWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Arrays-Exercise\\03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

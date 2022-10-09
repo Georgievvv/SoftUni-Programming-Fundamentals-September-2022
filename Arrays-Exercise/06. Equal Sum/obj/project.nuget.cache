@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YK5+OJu0bETIm9jfu34wazJiFDRcfArrkK/rJbKhX7f7mZkNYg5Lt6+cW7NF8g/1EUT45Ami/AP2ut+EltwRjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Arrays-Exercise\\06. Equal Sum\\06. Equal Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

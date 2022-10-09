@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaVsOkva7k62RwDkThExZJWT8lOEWiF41SluQKhC326FuziLCQUocHKOG3OauhY6wIcz11BTdqqEcAv2lg7FUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Arrays-Exercise\\05. Top Integers\\05. Top Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

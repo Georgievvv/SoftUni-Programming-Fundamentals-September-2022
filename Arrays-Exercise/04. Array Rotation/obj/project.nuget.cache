@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "McoJKWY7VCOyFfwT//dQqIykueXXOzzlNxTy8BGol0jy8AR4i6ovpl9irccZhi3Kl+9UkqcKZlQ5d/dVuUQAsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sweex\\Desktop\\SoftUni\\Programming Fundamentals\\Arrays-Exercise\\04. Array Rotation\\04. Array Rotation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sweex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
